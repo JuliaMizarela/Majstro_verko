@@ -61,3 +61,6 @@ venv.bak/
 .spyderproject
 .spyproject
 
+# Project specifics
+node4j_desktop/
+
