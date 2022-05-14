@@ -62,5 +62,7 @@ venv.bak/
 .spyproject
 
 # Project specifics
-node4j_desktop/
+neo4j_desktop/
+
+
 
