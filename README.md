@@ -21,5 +21,5 @@ If the project ever gets to be featured on the web, then it is gonna use vanilla
 
 The featured media clearly does not belong to this project and each production has it's own copyrighted licenses. This project is similar to a "movie critics database", with clearly subjective opinions that are free to be used for personal enjoyment or similar non-profit projects (see LICENSE for more information).
 
-
+"This product uses the TMDB API but is not endorsed or certified by TMDB." 
 
