@@ -61,21 +61,7 @@ venv.bak/
 .spyderproject
 .spyproject
 
-<<<<<<< Updated upstream
-=======
 # Project specifics
-<<<<<<< HEAD
 API_keys/
-=======
 neo4j_desktop/
-<<<<<<< Updated upstream
-=======
-
-
->>>>>>> db_conn
->>>>>>> Stashed changes
-
-
->>>>>>> db_conn
-
->>>>>>> Stashed changes
+majstro_verko/Files/Movies_jsons/
